@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phantom-programmer200
 - 👀 I’m interested in programming and cyber security 
-- 🌱 I’m currently learning HTML,CSS, JAVASCRIPT,VUE.JS
+- 🌱 I’m currently learning HTML,CSS, JAVASCRIPT,PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my number 09055602843
 
